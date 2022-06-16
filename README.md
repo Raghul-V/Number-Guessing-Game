@@ -1,6 +1,6 @@
 # Number-Guessing_Game
 ## Description
-This is a simple number guessing game.
+This is a simple CLI based number guessing game made with python.
 
 At first, I will think a number between 1 and 100. You have to guess the number within a given number chances.
 
