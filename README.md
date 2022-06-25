@@ -1,4 +1,4 @@
-# Number-Guessing_Game
+# Number-Guessing-Game
 ## Description
 This is a simple CLI based number guessing game made with python.
 
